@@ -8,6 +8,13 @@
       "when": 1752181372960,
       "tag": "0000_solid_zemo",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752281249867,
+      "tag": "0001_chemical_khan",
+      "breakpoints": true
     }
   ]
 }
