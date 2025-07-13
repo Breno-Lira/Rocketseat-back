@@ -77,4 +77,6 @@ npm run db:seed
 ```bash
 npm run dev
 ```
+## 🖥️ Frontend
+Link para o front: https://github.com/Breno-Lira/Rockseat-front
 
