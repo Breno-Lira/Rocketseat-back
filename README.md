@@ -1,4 +1,4 @@
-# Rocketseat-back (com extras personalizados)
+# Rocketseat-back (Projeto let me ask com integração de ia)
 
 Este é um projeto backend baseado em Fastify, desenvolvido durante um curso da **Rocketseat**, com algumas funcionalidades **extras adicionadas** posteriormente por mim.
 
