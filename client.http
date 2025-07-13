@@ -35,9 +35,12 @@ GET {{baseUrl}}/rooms/{{roomId}}/questions
 ###
 
 # @name createQuestion
-POST {{baseUrl}}/rooms/{{roomId}}/questions
+POST {{baseUrl}}/rooms/ebc3c0bc-0adc-4226-8f3e-9c299b82a076/questions
 Content-Type: application/json
 
 {
-    "question": "Qual o sentido da vida?"
+    "question": "O que é divisão celular?"
 }
+
+
+
