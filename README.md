@@ -45,24 +45,35 @@ Rocketseat-back/
 
 ### Passos para rodar:
 
-1. Instale as dependências:
+### 1. Clone o repositório
+```bash
+git clone <url-do-repositorio>
+cd server
+```
+
+### 2. Configure o arquivo `.env` baseado no `.env.example`.
+
+### 3. Instale as dependências:
 ```bash
 npm install
 ```
 
-2. Configure o arquivo `.env` baseado no `.env.example`.
-
-3. (Opcional) Suba o banco com Docker:
+### 4. Suba o banco com Docker:
 ```bash
 docker-compose up -d
 ```
 
-4. Rode as migrations com o Drizzle:
+### 5. Execute as migrações do banco
 ```bash
-npx drizzle-kit push
+npx drizzle-kit migrate
 ```
 
-5. Inicie o servidor:
+### 6. (Opcional) Popule o banco com dados de exemplo
+```bash
+npm run db:seed
+```
+
+### 7. Inicie o servidor:
 ```bash
 npm run dev
 ```
