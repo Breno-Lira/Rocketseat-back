@@ -1,6 +1,6 @@
 # Rocketseat-back (Projeto let me ask com integração de ia)
 
-Este é um projeto backend baseado em Fastify, desenvolvido durante um curso da **Rocketseat**.
+Este é um projeto backend baseado em Fastify, desenvolvido durante um evento da **Rocketseat**.
 Esse projeto tem como função criar salas para que outras pessoas possam e criar perguntas sendo respondidas por uma Ia que tem o conteudo da sala armazenado.
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
